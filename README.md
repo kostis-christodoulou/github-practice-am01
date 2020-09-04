@@ -36,7 +36,7 @@ Learning to use Github for your Portfolio Website Assignment
 |Marie Krainer   | 12     | mkrainerMAM |<https://github.com/mkrainerMAM/marie_portfolio>   |<https://mariekrainerportfolio.netlify.app/>        |2020-09-03
 |Ozlem Cuhaci   | 9     | ozlem-cuhaci |<https://github.com/ozlem-cuhaci/my_website>   |<https://ozlem-portfolio.netlify.app/>        |2020-09-03
 |Alessandro Angeletti | 13     | AlessandroAngeletti |<https://github.com/AlessandroAngeletti/my_website> | <https://aamf.netlify.app/> | 2020-09-04
-
+|David Nazareth | 12      |david-nazareth|<https://github.com/david-nazareth/my_website> |<https://david-nazareth-portfolio.netlify.app/> | 2020-09-04
 
 
 
