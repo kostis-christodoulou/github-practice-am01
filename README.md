@@ -70,3 +70,4 @@ Learning to use Github for your Portfolio Website Assignment
 |38|Yichun Hou   |6    |Yichun-Hou|<https://github.com/Yichun-Hou/my_website> | <https://yichunhou.netlify.app/> |2020-09-07
 |39| Mehdi Lembarki Kadiry|8| mehdilembarki| <https://github.com/mehdilembarki/my_website>| <https://mehdi-lembarki.netlify.app/>| 2020-09-07
 |40| Jiaxin(Oriana) Wei |4| oriana-wei| <https://github.com/oriana-wei/my_website>| <https://oriana-jiaxinwei.netlify.app/>| 2020-09-07
+|41|Anna Plaschke |11| anna-plaschke| <https://github.com/anna-plaschke/my_website>| <https://plaschke-portfolio.netlify.app/>| 2020-09-07
