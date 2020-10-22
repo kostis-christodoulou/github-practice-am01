@@ -110,3 +110,4 @@
 |80|Rick van der Linden | 8 | RickLinden | <https://github.com/RickLinden/my_website> | <https://rickvdlinden.netlify.app/> |2 /09/20 |
 |81| Maddy Goodman | 4 | maddy-g6 | <https://github.com/maddy-g6/my_website> | <https://maddygoodman-portfolio.netlify.app/> |2020-09-20 |
 |82|Jiakuo Li | 4 | Jiakuo-Li | <https://github.com/Jiakuo-Li/Personal-Website> | <https://jiakuo-li.netlify.app/> |2020-09-20 |
+|83|Suzie Melkonyan | 16 | Suzie-melkonyan | <https://github.com/suzie-melkonyan/my-website> | <https://suzie-melkon.netlify.app/> |2020-10-22 |
